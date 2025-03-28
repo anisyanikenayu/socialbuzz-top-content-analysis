@@ -1,4 +1,4 @@
-## Social Buzz: Help to Analyze the Top Content 
+## Social Buzz Top Content Analysis - Project Overview
 
 Table of Content
 - Project Background
