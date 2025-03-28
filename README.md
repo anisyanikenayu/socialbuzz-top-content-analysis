@@ -1,28 +1,23 @@
-## Accenture - Data	Analytics	and	Visualization	Job Simulation
+## Social Buzz: Help to Analyze the Top Content 
 
 Table of Content
 - Project Background
 - Executive Summary
 - Insights Deep-Dive
-  - Sales Trends and Growth Rates
-  - Key Product Performance
-  - Customer Growth and Repeat Purchase Trends
-  - Loyalty Program Performance
-  - Sales by Platforms & Channels
-  - Refund Rate Trends
+  - Content Growth
+  - Popular Content
 - Recommendations
 - Assumptions and Caveats
 
 ## Project Background
-Social Buzz, social media founded in 2008 from San Fransisco, faced rapid growth which it produces 10K content posts per day and in order to adjust their business to global scale, they need to utilize their data to support their effort. I work with Chief Technical Architect and Senior Principle to extract insight and deliver recommendation to profit high traffic content.
+Social Buzz, social media founded in 2008 from San Fransisco, is social media platform which emphasizes their contents by keeping the user anonymous and allow the interaction using likes, dislike, and comments. Over past 5 years, Social Buzz has reached over 500 million active users each month. They faced rapid growth which it produces 10K content posts per day and in order to adjust their business to global scale, they need to utilize their data to support their effort. I work with Chief Technical Architect and Senior Principle to extract insight and deliver recommendation to profit high traffic content. 
 
 ## Executive Summary
 
 ## Insights Deep-Dive
-
 ### Content Growth
-- 
-![{5A0BAC49-87F9-48E5-9A7B-4E13A6E2DB6E}](https://github.com/user-attachments/assets/d415ddc1-67ac-43d9-99fc-f1d75b854c32)
+From June 2020 to June 2021, the total amount of content produced from images, audio, videos, and GIFs remained stable each month, although there was a noticeable drop in June. January and May saw higher content production, likely due to significant events such as the New Year celebrations in January and the Idul Fitri holiday for Muslims in May. Given that Islam is the world's largest religion, these occasions prompted users to share various moments and interactions online. In contrast, total reactions experienced a decline in February, possibly because many people were preoccupied with their activities during that time. Meanwhile, from July to December, content levels appeared stable, as several countries were enjoying their summer holidays.
+### Popular Content
 
 ## Recommendations
 
